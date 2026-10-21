@@ -1,4 +1,4 @@
-# 📊 Push_swap
+# Push_swap
 
 [![Language: C](https://img.shields.io/github/languages/top/A-chem/42-Cursus-Push_swap?style=flat-square)](https://github.com/A-chem/42-Cursus-Push_swap)
 [![42 project](https://img.shields.io/badge/42-project-000000?style=flat-square)](https://42.fr/)
